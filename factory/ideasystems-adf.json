@@ -1,0 +1,9 @@
+{
+	"name": "ideasystems-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1863ca7d-639c-4fca-9a9e-ee1471e513ea",
+		"tenantId": "01f27da5-de11-4af6-aaf1-946f7d09fe08"
+	}
+}
